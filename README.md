@@ -10,3 +10,5 @@ Install `Snippets` extension and run the code below:
 ```bash
 git clone git@github.com:melvinsembrano/snippets.git ~/.config/zed/snippets
 ```
+
+Then restart the editor.
